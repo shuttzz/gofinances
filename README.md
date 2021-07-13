@@ -36,11 +36,10 @@ Tabela de conteúdos
 * [Sobre o projeto](#-sobre-o-projeto)
 * [Funcionalidades](#-funcionalidades)
 * [Layout](#-layout)
-* [Imagens do App](#-imagens-app)
+* [Imagens do App](#imagens-do-app)
 * [Pré-requisitos](#pré-requisitos)
-* [Rodando o App](#user-content--rodando-o-backend-servidor)
+* [Rodando o App](#-rodando-o-app)
 * [Tecnologias](#-tecnologias)
-* [Mobile](#user-content-mobile--react-native----typescript)
 * [Como contribuir no projeto](#-como-contribuir-no-projeto)
 * [Autor](#-autor)
 * [Licença](#user-content--licença)
@@ -74,7 +73,7 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 
-### Imagens do App
+## Imagens do App
 
 <p align="center">
   <img alt="Login" title="#Login" src="./src/assets/app-prints/screen-login.png" width="200px">
@@ -88,13 +87,13 @@ O layout da aplicação está disponível no Figma:
 
 ---
 
-### Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o App
+## 🎲 Rodando o App
 
 ```bash
 
